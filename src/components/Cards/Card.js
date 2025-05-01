@@ -4,7 +4,6 @@ import { cardsData } from '../../Data/Data'
 import EachCard from '../EachCard/EachCard'
 
 const Card = () => {
-  //hceking the card
   return (
     <>
     <div className='Cards'>
